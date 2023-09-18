@@ -14,8 +14,6 @@ Flutter Web Smart Admin & Panel Dashboard with flutter UI kit.
 ### Smart Admin Panel & Dashboard
 
 
-![alt text](/screenshots/deniz-codes-sc.png)
-
 
 ### 💻 Requirements
 
@@ -23,7 +21,3 @@ Flutter Web Smart Admin & Panel Dashboard with flutter UI kit.
 - Any IDE with Flutter SDK installed (Android Studio, VSCode etc)
 - A little knowledge of Dart and Flutter
 
-
-### 👨‍💻 Author
-
-Developed by Deniz Çolak
